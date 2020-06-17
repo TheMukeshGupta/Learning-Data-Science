@@ -15,3 +15,4 @@ Passive Aggressive algorithms are online learning algorithms. Such an algorithm 
 
 
 #Project Source: DataFlair
+https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
